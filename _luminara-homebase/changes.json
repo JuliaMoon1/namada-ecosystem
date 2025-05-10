@@ -6168,5 +6168,28 @@
                 "new_value": true
             }
         ]
+    },
+    {
+        "timestamp": "2025-05-10T13:00:28.315914+00:00Z",
+        "changes": [
+            {
+                "team": "L0vd",
+                "service": "indexer",
+                "field": "version",
+                "full_path": "namada.operator.L0vd.service.indexer.version",
+                "type": "modified",
+                "old_value": "2.3.0",
+                "new_value": "n/a"
+            },
+            {
+                "team": "L0vd",
+                "service": "indexer",
+                "field": "status",
+                "full_path": "namada.operator.L0vd.service.indexer.status",
+                "type": "modified",
+                "old_value": "up",
+                "new_value": "down"
+            }
+        ]
     }
 ]
