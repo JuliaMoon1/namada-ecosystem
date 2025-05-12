@@ -8353,5 +8353,19 @@
                 "new_value": false
             }
         ]
+    },
+    {
+        "timestamp": "2025-05-12T18:47:57.041246+00:00Z",
+        "changes": [
+            {
+                "team": "itrocket",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.itrocket.interface.version",
+                "type": "modified",
+                "old_value": "1.20.1",
+                "new_value": "1.20.0"
+            }
+        ]
     }
 ]
