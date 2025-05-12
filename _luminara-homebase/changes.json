@@ -7753,5 +7753,208 @@
                 "new_value": false
             }
         ]
+    },
+    {
+        "timestamp": "2025-05-12T03:44:45.956507+00:00Z",
+        "changes": [
+            {
+                "team": "Palamar",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.Palamar.interface.version",
+                "type": "modified",
+                "old_value": "n/a",
+                "new_value": "1.20.0"
+            },
+            {
+                "team": "Palamar",
+                "service": "indexer",
+                "field": "service",
+                "full_path": "namada.operator.Palamar.service.indexer.service",
+                "type": "added",
+                "old_value": null,
+                "new_value": "indexer"
+            },
+            {
+                "team": "Palamar",
+                "service": "indexer",
+                "field": "url",
+                "full_path": "namada.operator.Palamar.service.indexer.url",
+                "type": "added",
+                "old_value": null,
+                "new_value": "https://namada-indexer.palamar.io:443"
+            },
+            {
+                "team": "Palamar",
+                "service": "indexer",
+                "field": "status",
+                "full_path": "namada.operator.Palamar.service.indexer.status",
+                "type": "added",
+                "old_value": null,
+                "new_value": "up"
+            },
+            {
+                "team": "Palamar",
+                "service": "indexer",
+                "field": "version",
+                "full_path": "namada.operator.Palamar.service.indexer.version",
+                "type": "added",
+                "old_value": null,
+                "new_value": "2.5.3"
+            },
+            {
+                "team": "Palamar",
+                "service": "indexer",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.Palamar.service.indexer.is_up_to_date",
+                "type": "added",
+                "old_value": null,
+                "new_value": true
+            },
+            {
+                "team": "Palamar",
+                "service": "indexer",
+                "field": "sync_state",
+                "full_path": "namada.operator.Palamar.service.indexer.sync_state",
+                "type": "added",
+                "old_value": null,
+                "new_value": "sync_ok"
+            },
+            {
+                "team": "Palamar",
+                "service": "masp",
+                "field": "service",
+                "full_path": "namada.operator.Palamar.service.masp.service",
+                "type": "added",
+                "old_value": null,
+                "new_value": "masp"
+            },
+            {
+                "team": "Palamar",
+                "service": "masp",
+                "field": "url",
+                "full_path": "namada.operator.Palamar.service.masp.url",
+                "type": "added",
+                "old_value": null,
+                "new_value": "https://namada-masp.palamar.io:443"
+            },
+            {
+                "team": "Palamar",
+                "service": "masp",
+                "field": "status",
+                "full_path": "namada.operator.Palamar.service.masp.status",
+                "type": "added",
+                "old_value": null,
+                "new_value": "up"
+            },
+            {
+                "team": "Palamar",
+                "service": "masp",
+                "field": "version",
+                "full_path": "namada.operator.Palamar.service.masp.version",
+                "type": "added",
+                "old_value": null,
+                "new_value": "1.2.1"
+            },
+            {
+                "team": "Palamar",
+                "service": "masp",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.Palamar.service.masp.is_up_to_date",
+                "type": "added",
+                "old_value": null,
+                "new_value": true
+            },
+            {
+                "team": "Palamar",
+                "service": "masp",
+                "field": "sync_state",
+                "full_path": "namada.operator.Palamar.service.masp.sync_state",
+                "type": "added",
+                "old_value": null,
+                "new_value": "sync_ok"
+            },
+            {
+                "team": "Palamar",
+                "service": "rpc",
+                "field": "service",
+                "full_path": "namada.operator.Palamar.service.rpc.service",
+                "type": "added",
+                "old_value": null,
+                "new_value": "rpc"
+            },
+            {
+                "team": "Palamar",
+                "service": "rpc",
+                "field": "url",
+                "full_path": "namada.operator.Palamar.service.rpc.url",
+                "type": "added",
+                "old_value": null,
+                "new_value": "https://namada-rpc.palamar.io:443"
+            },
+            {
+                "team": "Palamar",
+                "service": "rpc",
+                "field": "status",
+                "full_path": "namada.operator.Palamar.service.rpc.status",
+                "type": "added",
+                "old_value": null,
+                "new_value": "up"
+            },
+            {
+                "team": "Palamar",
+                "service": "rpc",
+                "field": "version",
+                "full_path": "namada.operator.Palamar.service.rpc.version",
+                "type": "added",
+                "old_value": null,
+                "new_value": "0.37.15"
+            },
+            {
+                "team": "Palamar",
+                "service": "rpc",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.Palamar.service.rpc.is_up_to_date",
+                "type": "added",
+                "old_value": null,
+                "new_value": true
+            },
+            {
+                "team": "Palamar",
+                "service": "rpc",
+                "field": "namada_version",
+                "full_path": "namada.operator.Palamar.service.rpc.namada_version",
+                "type": "added",
+                "old_value": null,
+                "new_value": "1.1.5"
+            },
+            {
+                "team": "Palamar",
+                "service": "rpc",
+                "field": "sync_state",
+                "full_path": "namada.operator.Palamar.service.rpc.sync_state",
+                "type": "added",
+                "old_value": null,
+                "new_value": "sync_ok"
+            },
+            {
+                "team": "Palamar",
+                "service": "interface",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.Palamar.interface.is_up_to_date",
+                "type": "modified",
+                "old_value": false,
+                "new_value": true
+            },
+            {
+                "team": "Palamar",
+                "service": "interface",
+                "field": "status",
+                "full_path": "namada.operator.Palamar.interface.status",
+                "type": "modified",
+                "old_value": "down",
+                "new_value": "up"
+            }
+        ]
     }
 ]
