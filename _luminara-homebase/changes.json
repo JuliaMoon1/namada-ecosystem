@@ -19747,5 +19747,55 @@
                 "new_value": false
             }
         ]
+    },
+    {
+        "timestamp": "2025-05-21T09:41:14.042011+00:00Z",
+        "changes": [
+            {
+                "team": "5ElementsNodes",
+                "service": "masp",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.5ElementsNodes.service.masp.is_up_to_date",
+                "type": "modified",
+                "old_value": true,
+                "new_value": false
+            },
+            {
+                "team": "5ElementsNodes",
+                "service": "masp",
+                "field": "version",
+                "full_path": "namada.operator.5ElementsNodes.service.masp.version",
+                "type": "modified",
+                "old_value": "1.2.1",
+                "new_value": "1.2.0"
+            },
+            {
+                "team": "deNodes",
+                "service": "interface",
+                "field": "status",
+                "full_path": "namada.operator.deNodes.interface.status",
+                "type": "modified",
+                "old_value": "up",
+                "new_value": "down"
+            },
+            {
+                "team": "deNodes",
+                "service": "interface",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.deNodes.interface.is_up_to_date",
+                "type": "modified",
+                "old_value": true,
+                "new_value": false
+            },
+            {
+                "team": "deNodes",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.deNodes.interface.version",
+                "type": "modified",
+                "old_value": "1.20.0",
+                "new_value": "n/a"
+            }
+        ]
     }
 ]
