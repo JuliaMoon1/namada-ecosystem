@@ -20227,5 +20227,19 @@
                 "new_value": "2102067"
             }
         ]
+    },
+    {
+        "timestamp": "2025-05-21T17:39:37.329403+00:00Z",
+        "changes": [
+            {
+                "team": "deNodes",
+                "service": "indexer",
+                "field": "version",
+                "full_path": "namada.operator.deNodes.service.indexer.version",
+                "type": "modified",
+                "old_value": "2.5.3",
+                "new_value": "2.5.4"
+            }
+        ]
     }
 ]
