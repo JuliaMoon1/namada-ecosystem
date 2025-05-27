@@ -31385,5 +31385,64 @@
                 "new_value": true
             }
         ]
+    },
+    {
+        "timestamp": "2025-05-27T20:17:41.915710+00:00Z",
+        "changes": [
+            {
+                "team": "Palamar",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.Palamar.interface.version",
+                "type": "modified",
+                "old_value": "n/a",
+                "new_value": "1.21.0"
+            },
+            {
+                "team": "Palamar",
+                "service": "interface",
+                "field": "status",
+                "full_path": "namada.operator.Palamar.interface.status",
+                "type": "modified",
+                "old_value": "down",
+                "new_value": "up"
+            },
+            {
+                "team": "Palamar",
+                "service": "interface",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.Palamar.interface.is_up_to_date",
+                "type": "modified",
+                "old_value": false,
+                "new_value": true
+            },
+            {
+                "team": "deNodes",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.deNodes.interface.version",
+                "type": "modified",
+                "old_value": "n/a",
+                "new_value": "1.21.0"
+            },
+            {
+                "team": "deNodes",
+                "service": "interface",
+                "field": "status",
+                "full_path": "namada.operator.deNodes.interface.status",
+                "type": "modified",
+                "old_value": "down",
+                "new_value": "up"
+            },
+            {
+                "team": "deNodes",
+                "service": "interface",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.deNodes.interface.is_up_to_date",
+                "type": "modified",
+                "old_value": false,
+                "new_value": true
+            }
+        ]
     }
 ]
