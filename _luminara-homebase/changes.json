@@ -34096,5 +34096,73 @@
                 "new_value": "sync_nok"
             }
         ]
+    },
+    {
+        "timestamp": "2025-05-28T15:16:12.095956+00:00Z",
+        "changes": [
+            {
+                "team": "CroutonDigital",
+                "service": "indexer",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.CroutonDigital.service.indexer.latest_block_height",
+                "type": "modified",
+                "old_value": "0",
+                "new_value": "2187600"
+            },
+            {
+                "team": "CroutonDigital",
+                "service": "indexer",
+                "field": "version",
+                "full_path": "namada.operator.CroutonDigital.service.indexer.version",
+                "type": "modified",
+                "old_value": "n/a",
+                "new_value": "3.0.2"
+            },
+            {
+                "team": "CroutonDigital",
+                "service": "indexer",
+                "field": "status",
+                "full_path": "namada.operator.CroutonDigital.service.indexer.status",
+                "type": "modified",
+                "old_value": "down",
+                "new_value": "up"
+            },
+            {
+                "team": "CroutonDigital",
+                "service": "indexer",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.CroutonDigital.service.indexer.is_up_to_date",
+                "type": "modified",
+                "old_value": false,
+                "new_value": true
+            },
+            {
+                "team": "CroutonDigital",
+                "service": "indexer",
+                "field": "sync_state",
+                "full_path": "namada.operator.CroutonDigital.service.indexer.sync_state",
+                "type": "modified",
+                "old_value": "sync_nok",
+                "new_value": "sync_ok"
+            },
+            {
+                "team": "CroutonDigital",
+                "service": "rpc",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.CroutonDigital.service.rpc.latest_block_height",
+                "type": "modified",
+                "old_value": "2185331",
+                "new_value": "2187600"
+            },
+            {
+                "team": "CroutonDigital",
+                "service": "rpc",
+                "field": "sync_state",
+                "full_path": "namada.operator.CroutonDigital.service.rpc.sync_state",
+                "type": "modified",
+                "old_value": "sync_nok",
+                "new_value": "sync_ok"
+            }
+        ]
     }
 ]
