@@ -41039,5 +41039,19 @@
                 "new_value": "2263694"
             }
         ]
+    },
+    {
+        "timestamp": "2025-06-03T17:41:31.764542+00:00Z",
+        "changes": [
+            {
+                "team": "Validatus",
+                "service": "indexer",
+                "field": "sync_state",
+                "full_path": "namada.operator.Validatus.service.indexer.sync_state",
+                "type": "modified",
+                "old_value": "sync_lag",
+                "new_value": "sync_nok"
+            }
+        ]
     }
 ]
