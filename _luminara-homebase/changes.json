@@ -41825,5 +41825,28 @@
                 "new_value": "2296601"
             }
         ]
+    },
+    {
+        "timestamp": "2025-06-06T08:46:21.502798+00:00Z",
+        "changes": [
+            {
+                "team": "Validatus",
+                "service": "indexer",
+                "field": "sync_state",
+                "full_path": "namada.operator.Validatus.service.indexer.sync_state",
+                "type": "modified",
+                "old_value": "sync_ok",
+                "new_value": "sync_nok"
+            },
+            {
+                "team": "Validatus",
+                "service": "indexer",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.Validatus.service.indexer.latest_block_height",
+                "type": "modified",
+                "old_value": "2296601",
+                "new_value": "2296772"
+            }
+        ]
     }
 ]
