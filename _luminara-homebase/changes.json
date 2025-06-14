@@ -52798,5 +52798,28 @@
                 "new_value": "sync_ok"
             }
         ]
+    },
+    {
+        "timestamp": "2025-06-14T08:43:36.371849+00:00Z",
+        "changes": [
+            {
+                "team": "MELLIFERA",
+                "service": "indexer",
+                "field": "sync_state",
+                "full_path": "namada.operator.MELLIFERA.service.indexer.sync_state",
+                "type": "modified",
+                "old_value": "sync_ok",
+                "new_value": "sync_lag"
+            },
+            {
+                "team": "MELLIFERA",
+                "service": "indexer",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.MELLIFERA.service.indexer.latest_block_height",
+                "type": "modified",
+                "old_value": "2397034",
+                "new_value": "2397405"
+            }
+        ]
     }
 ]
