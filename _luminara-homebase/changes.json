@@ -58929,5 +58929,100 @@
                 "new_value": true
             }
         ]
+    },
+    {
+        "timestamp": "2025-06-17T16:20:45.966729+00:00Z",
+        "changes": [
+            {
+                "team": "LoserBoy",
+                "service": "indexer",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.LoserBoy.service.indexer.is_up_to_date",
+                "type": "modified",
+                "old_value": true,
+                "new_value": false
+            },
+            {
+                "team": "LoserBoy",
+                "service": "indexer",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.LoserBoy.service.indexer.latest_block_height",
+                "type": "modified",
+                "old_value": "2438780",
+                "new_value": "0"
+            },
+            {
+                "team": "LoserBoy",
+                "service": "indexer",
+                "field": "status",
+                "full_path": "namada.operator.LoserBoy.service.indexer.status",
+                "type": "modified",
+                "old_value": "up",
+                "new_value": "down"
+            },
+            {
+                "team": "LoserBoy",
+                "service": "indexer",
+                "field": "version",
+                "full_path": "namada.operator.LoserBoy.service.indexer.version",
+                "type": "modified",
+                "old_value": "3.2.0",
+                "new_value": "n/a"
+            },
+            {
+                "team": "LoserBoy",
+                "service": "indexer",
+                "field": "sync_state",
+                "full_path": "namada.operator.LoserBoy.service.indexer.sync_state",
+                "type": "modified",
+                "old_value": "sync_ok",
+                "new_value": "sync_nok"
+            },
+            {
+                "team": "OriginStake",
+                "service": "indexer",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.OriginStake.service.indexer.is_up_to_date",
+                "type": "modified",
+                "old_value": true,
+                "new_value": false
+            },
+            {
+                "team": "OriginStake",
+                "service": "indexer",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.OriginStake.service.indexer.latest_block_height",
+                "type": "modified",
+                "old_value": "2438770",
+                "new_value": "0"
+            },
+            {
+                "team": "OriginStake",
+                "service": "indexer",
+                "field": "status",
+                "full_path": "namada.operator.OriginStake.service.indexer.status",
+                "type": "modified",
+                "old_value": "up",
+                "new_value": "down"
+            },
+            {
+                "team": "OriginStake",
+                "service": "indexer",
+                "field": "version",
+                "full_path": "namada.operator.OriginStake.service.indexer.version",
+                "type": "modified",
+                "old_value": "3.2.0",
+                "new_value": "n/a"
+            },
+            {
+                "team": "OriginStake",
+                "service": "indexer",
+                "field": "sync_state",
+                "full_path": "namada.operator.OriginStake.service.indexer.sync_state",
+                "type": "modified",
+                "old_value": "sync_ok",
+                "new_value": "sync_nok"
+            }
+        ]
     }
 ]
