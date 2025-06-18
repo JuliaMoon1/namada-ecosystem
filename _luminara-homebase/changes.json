@@ -60453,5 +60453,37 @@
                 "new_value": "0"
             }
         ]
+    },
+    {
+        "timestamp": "2025-06-18T07:40:19.738784+00:00Z",
+        "changes": [
+            {
+                "team": "Heliax",
+                "service": "indexer",
+                "field": "url",
+                "full_path": "namada.operator.Heliax.service.indexer.url",
+                "type": "modified",
+                "old_value": "https://indexer.namada.tududes.com",
+                "new_value": "https://namada-idx.emberstake.xyz"
+            },
+            {
+                "team": "Heliax",
+                "service": "masp",
+                "field": "url",
+                "full_path": "namada.operator.Heliax.service.masp.url",
+                "type": "modified",
+                "old_value": "https://masp.namada.tududes.com",
+                "new_value": "https://namada-masp-idx.emberstake.xyz"
+            },
+            {
+                "team": "Heliax",
+                "service": "rpc",
+                "field": "url",
+                "full_path": "namada.operator.Heliax.service.rpc.url",
+                "type": "modified",
+                "old_value": "https://rpc.namada.tududes.com",
+                "new_value": "https://namada-rpc.emberstake.xyz"
+            }
+        ]
     }
 ]
