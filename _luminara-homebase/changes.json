@@ -62052,5 +62052,55 @@
                 "new_value": true
             }
         ]
+    },
+    {
+        "timestamp": "2025-06-18T14:44:36.710121+00:00Z",
+        "changes": [
+            {
+                "team": "5ElementsNodes",
+                "service": "indexer",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.5ElementsNodes.service.indexer.latest_block_height",
+                "type": "modified",
+                "old_value": "2450306",
+                "new_value": "2450555"
+            },
+            {
+                "team": "5ElementsNodes",
+                "service": "indexer",
+                "field": "sync_state",
+                "full_path": "namada.operator.5ElementsNodes.service.indexer.sync_state",
+                "type": "modified",
+                "old_value": "sync_ok",
+                "new_value": "sync_nok"
+            },
+            {
+                "team": "max-02",
+                "service": "indexer",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.max-02.service.indexer.latest_block_height",
+                "type": "modified",
+                "old_value": "2450322",
+                "new_value": "2450640"
+            },
+            {
+                "team": "max-02",
+                "service": "indexer",
+                "field": "sync_state",
+                "full_path": "namada.operator.max-02.service.indexer.sync_state",
+                "type": "modified",
+                "old_value": "sync_ok",
+                "new_value": "sync_lag"
+            },
+            {
+                "team": "MekongLabs",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.MekongLabs.interface.version",
+                "type": "modified",
+                "old_value": "1.24.0",
+                "new_value": "1.26.0"
+            }
+        ]
     }
 ]
