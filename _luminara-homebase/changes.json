@@ -68542,5 +68542,19 @@
                 "new_value": "https://namada-rpc.emberstake.xyz"
             }
         ]
+    },
+    {
+        "timestamp": "2025-06-19T23:15:15.975265+00:00Z",
+        "changes": [
+            {
+                "team": "TuDudes",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.TuDudes.interface.version",
+                "type": "modified",
+                "old_value": "1.26.0",
+                "new_value": "1.27.0"
+            }
+        ]
     }
 ]
