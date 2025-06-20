@@ -70563,5 +70563,19 @@
                 "new_value": "1.28.1"
             }
         ]
+    },
+    {
+        "timestamp": "2025-06-20T23:38:43.772615+00:00Z",
+        "changes": [
+            {
+                "team": "Heliax",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.Heliax.interface.version",
+                "type": "modified",
+                "old_value": "1.28.1",
+                "new_value": "1.28.2"
+            }
+        ]
     }
 ]
