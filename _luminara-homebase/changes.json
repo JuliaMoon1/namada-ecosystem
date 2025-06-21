@@ -72139,5 +72139,28 @@
                 "new_value": true
             }
         ]
+    },
+    {
+        "timestamp": "2025-06-21T07:37:21.172497+00:00Z",
+        "changes": [
+            {
+                "team": "itrocket",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.itrocket.interface.version",
+                "type": "modified",
+                "old_value": "1.27.0",
+                "new_value": "1.28.2"
+            },
+            {
+                "team": "OriginStake",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.OriginStake.interface.version",
+                "type": "modified",
+                "old_value": "1.27.0",
+                "new_value": "1.28.2"
+            }
+        ]
     }
 ]
