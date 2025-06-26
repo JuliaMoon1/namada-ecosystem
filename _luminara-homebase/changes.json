@@ -76882,5 +76882,109 @@
                 "new_value": "2547824"
             }
         ]
+    },
+    {
+        "timestamp": "2025-06-26T10:17:33.273294+00:00Z",
+        "changes": [
+            {
+                "team": "L0vd",
+                "service": "indexer",
+                "field": "sync_state",
+                "full_path": "namada.operator.L0vd.service.indexer.sync_state",
+                "type": "modified",
+                "old_value": "sync_ok",
+                "new_value": "sync_nok"
+            },
+            {
+                "team": "L0vd",
+                "service": "indexer",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.L0vd.service.indexer.is_up_to_date",
+                "type": "modified",
+                "old_value": true,
+                "new_value": false
+            },
+            {
+                "team": "L0vd",
+                "service": "indexer",
+                "field": "version",
+                "full_path": "namada.operator.L0vd.service.indexer.version",
+                "type": "modified",
+                "old_value": "3.0.2",
+                "new_value": "n/a"
+            },
+            {
+                "team": "L0vd",
+                "service": "indexer",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.L0vd.service.indexer.latest_block_height",
+                "type": "modified",
+                "old_value": "2547830",
+                "new_value": "0"
+            },
+            {
+                "team": "L0vd",
+                "service": "indexer",
+                "field": "status",
+                "full_path": "namada.operator.L0vd.service.indexer.status",
+                "type": "modified",
+                "old_value": "up",
+                "new_value": "down"
+            },
+            {
+                "team": "Nodes.Guru",
+                "service": "rpc",
+                "field": "sync_state",
+                "full_path": "namada.operator.Nodes.Guru.service.rpc.sync_state",
+                "type": "modified",
+                "old_value": "sync_nok",
+                "new_value": "sync_ok"
+            },
+            {
+                "team": "Nodes.Guru",
+                "service": "rpc",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.Nodes.Guru.service.rpc.is_up_to_date",
+                "type": "modified",
+                "old_value": false,
+                "new_value": true
+            },
+            {
+                "team": "Nodes.Guru",
+                "service": "rpc",
+                "field": "namada_version",
+                "full_path": "namada.operator.Nodes.Guru.service.rpc.namada_version",
+                "type": "modified",
+                "old_value": "n/a",
+                "new_value": "101.1.1"
+            },
+            {
+                "team": "Nodes.Guru",
+                "service": "rpc",
+                "field": "version",
+                "full_path": "namada.operator.Nodes.Guru.service.rpc.version",
+                "type": "modified",
+                "old_value": "n/a",
+                "new_value": "0.37.15"
+            },
+            {
+                "team": "Nodes.Guru",
+                "service": "rpc",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.Nodes.Guru.service.rpc.latest_block_height",
+                "type": "modified",
+                "old_value": "0",
+                "new_value": "2548008"
+            },
+            {
+                "team": "Nodes.Guru",
+                "service": "rpc",
+                "field": "status",
+                "full_path": "namada.operator.Nodes.Guru.service.rpc.status",
+                "type": "modified",
+                "old_value": "down",
+                "new_value": "up"
+            }
+        ]
     }
 ]
