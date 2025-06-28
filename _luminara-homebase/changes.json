@@ -78159,5 +78159,19 @@
                 "new_value": "2562378"
             }
         ]
+    },
+    {
+        "timestamp": "2025-06-28T09:16:11.233574+00:00Z",
+        "changes": [
+            {
+                "team": "shield-crypto",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.shield-crypto.interface.version",
+                "type": "modified",
+                "old_value": "1.28.2",
+                "new_value": "1.28.3"
+            }
+        ]
     }
 ]
