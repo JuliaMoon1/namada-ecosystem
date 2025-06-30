@@ -80229,5 +80229,28 @@
                 "new_value": true
             }
         ]
+    },
+    {
+        "timestamp": "2025-06-30T16:48:28.099304+00:00Z",
+        "changes": [
+            {
+                "team": "CroutonDigital",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.CroutonDigital.interface.version",
+                "type": "modified",
+                "old_value": "1.21.0",
+                "new_value": "1.27.0"
+            },
+            {
+                "team": "papadritta",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.papadritta.interface.version",
+                "type": "modified",
+                "old_value": "1.28.3",
+                "new_value": "1.27.0"
+            }
+        ]
     }
 ]
