@@ -80252,5 +80252,19 @@
                 "new_value": "1.27.0"
             }
         ]
+    },
+    {
+        "timestamp": "2025-06-30T17:14:17.232050+00:00Z",
+        "changes": [
+            {
+                "team": "papadritta",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.papadritta.interface.version",
+                "type": "modified",
+                "old_value": "1.27.0",
+                "new_value": "1.28.3"
+            }
+        ]
     }
 ]
