@@ -78531,5 +78531,19 @@
                 "new_value": "1.28.3"
             }
         ]
+    },
+    {
+        "timestamp": "2025-06-30T06:52:17.138384+00:00Z",
+        "changes": [
+            {
+                "team": "Validatus",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.Validatus.interface.version",
+                "type": "modified",
+                "old_value": "1.28.2",
+                "new_value": "1.28.3"
+            }
+        ]
     }
 ]
