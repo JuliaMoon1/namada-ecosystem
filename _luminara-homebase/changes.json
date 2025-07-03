@@ -81830,5 +81830,37 @@
                 "new_value": "1.28.3"
             }
         ]
+    },
+    {
+        "timestamp": "2025-07-03T21:14:45.798249+00:00Z",
+        "changes": [
+            {
+                "team": "shield-crypto",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.shield-crypto.interface.version",
+                "type": "modified",
+                "old_value": "n/a",
+                "new_value": "1.28.3"
+            },
+            {
+                "team": "shield-crypto",
+                "service": "interface",
+                "field": "status",
+                "full_path": "namada.operator.shield-crypto.interface.status",
+                "type": "modified",
+                "old_value": "down",
+                "new_value": "up"
+            },
+            {
+                "team": "shield-crypto",
+                "service": "interface",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.shield-crypto.interface.is_up_to_date",
+                "type": "modified",
+                "old_value": false,
+                "new_value": true
+            }
+        ]
     }
 ]
