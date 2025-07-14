@@ -88938,5 +88938,19 @@
                 "new_value": "2772852"
             }
         ]
+    },
+    {
+        "timestamp": "2025-07-14T15:18:28.233100+00:00Z",
+        "changes": [
+            {
+                "team": "LoserBoy",
+                "service": "indexer",
+                "field": "version",
+                "full_path": "namada.operator.LoserBoy.service.indexer.version",
+                "type": "modified",
+                "old_value": "3.2.0",
+                "new_value": "3.3.2"
+            }
+        ]
     }
 ]
