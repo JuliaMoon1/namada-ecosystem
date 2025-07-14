@@ -89554,5 +89554,19 @@
                 "new_value": true
             }
         ]
+    },
+    {
+        "timestamp": "2025-07-14T20:18:54.076105+00:00Z",
+        "changes": [
+            {
+                "team": "StakeUp",
+                "service": "indexer",
+                "field": "version",
+                "full_path": "namada.operator.StakeUp.service.indexer.version",
+                "type": "modified",
+                "old_value": "3.2.0",
+                "new_value": "3.3.2"
+            }
+        ]
     }
 ]
