@@ -90630,5 +90630,19 @@
                 "new_value": "1.29.0"
             }
         ]
+    },
+    {
+        "timestamp": "2025-07-15T14:16:20.065053+00:00Z",
+        "changes": [
+            {
+                "team": "papadritta",
+                "service": "indexer",
+                "field": "version",
+                "full_path": "namada.operator.papadritta.service.indexer.version",
+                "type": "modified",
+                "old_value": "3.2.0",
+                "new_value": "3.3.2"
+            }
+        ]
     }
 ]
