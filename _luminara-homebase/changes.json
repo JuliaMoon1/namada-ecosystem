@@ -94513,5 +94513,19 @@
                 "new_value": "2812644"
             }
         ]
+    },
+    {
+        "timestamp": "2025-07-17T20:43:21.045505+00:00Z",
+        "changes": [
+            {
+                "team": "StakeUp",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.StakeUp.interface.version",
+                "type": "modified",
+                "old_value": "1.31.0",
+                "new_value": "1.31.1"
+            }
+        ]
     }
 ]
