@@ -96432,5 +96432,19 @@
                 "new_value": true
             }
         ]
+    },
+    {
+        "timestamp": "2025-07-22T08:51:53.342464+00:00Z",
+        "changes": [
+            {
+                "team": "OriginStake",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.OriginStake.interface.version",
+                "type": "modified",
+                "old_value": "1.29.0",
+                "new_value": "1.31.1"
+            }
+        ]
     }
 ]
