@@ -97401,5 +97401,28 @@
                 "new_value": "2892775"
             }
         ]
+    },
+    {
+        "timestamp": "2025-07-24T06:26:14.492881+00:00Z",
+        "changes": [
+            {
+                "team": "Sproutstake",
+                "service": "masp",
+                "field": "sync_state",
+                "full_path": "namada.operator.Sproutstake.service.masp.sync_state",
+                "type": "modified",
+                "old_value": "sync_lag",
+                "new_value": "sync_ok"
+            },
+            {
+                "team": "Sproutstake",
+                "service": "masp",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.Sproutstake.service.masp.latest_block_height",
+                "type": "modified",
+                "old_value": "2892775",
+                "new_value": "2893087"
+            }
+        ]
     }
 ]
