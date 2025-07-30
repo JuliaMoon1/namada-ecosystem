@@ -100435,5 +100435,19 @@
                 "new_value": "1.31.2"
             }
         ]
+    },
+    {
+        "timestamp": "2025-07-30T07:29:47.427184+00:00Z",
+        "changes": [
+            {
+                "team": "CroutonDigital",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.CroutonDigital.interface.version",
+                "type": "modified",
+                "old_value": "1.31.1",
+                "new_value": "1.31.2"
+            }
+        ]
     }
 ]
