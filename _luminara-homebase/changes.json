@@ -101198,5 +101198,28 @@
                 "new_value": "1.31.4"
             }
         ]
+    },
+    {
+        "timestamp": "2025-07-31T13:35:46.180104+00:00Z",
+        "changes": [
+            {
+                "team": "Palamar",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.Palamar.interface.version",
+                "type": "modified",
+                "old_value": "1.31.2",
+                "new_value": "1.31.4"
+            },
+            {
+                "team": "Nodes.Guru",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.Nodes.Guru.interface.version",
+                "type": "modified",
+                "old_value": "1.31.2",
+                "new_value": "1.31.4"
+            }
+        ]
     }
 ]
