@@ -101184,5 +101184,19 @@
                 "new_value": "101.1.2"
             }
         ]
+    },
+    {
+        "timestamp": "2025-07-31T09:47:22.233391+00:00Z",
+        "changes": [
+            {
+                "team": "shield-crypto",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.shield-crypto.interface.version",
+                "type": "modified",
+                "old_value": "1.31.2",
+                "new_value": "1.31.4"
+            }
+        ]
     }
 ]
