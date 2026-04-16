@@ -1,7 +1,7 @@
 {
-    "script_start_time": "2026-04-16T09:55:23.501124+00:00Z",
-    "script_end_time": "2026-04-16T10:02:11.593086+00:00Z",
-    "reference_latest_block_height": "6182037",
+    "script_start_time": "2026-04-16T11:06:04.558853+00:00Z",
+    "script_end_time": "2026-04-16T11:12:50.550512+00:00Z",
+    "reference_latest_block_height": "6182650",
     "required_versions": {
         "interface": "1.20.0",
         "indexer": "2.5.3",
@@ -26,7 +26,7 @@
                             "status": "up",
                             "version": "4.1.0",
                             "is_up_to_date": true,
-                            "latest_block_height": "6181978",
+                            "latest_block_height": "6182592",
                             "sync_state": "sync_lag"
                         },
                         {
@@ -35,7 +35,7 @@
                             "status": "up",
                             "version": "1.4.7",
                             "is_up_to_date": true,
-                            "latest_block_height": "6181298",
+                            "latest_block_height": "6182015",
                             "sync_state": "sync_nok"
                         },
                         {
@@ -45,7 +45,7 @@
                             "version": "0.37.16",
                             "is_up_to_date": true,
                             "namada_version": "201.0.7",
-                            "latest_block_height": "6181979",
+                            "latest_block_height": "6182592",
                             "sync_state": "sync_lag"
                         }
                     ]
@@ -73,7 +73,7 @@
                             "status": "up",
                             "version": "4.1.3",
                             "is_up_to_date": true,
-                            "latest_block_height": "6181985",
+                            "latest_block_height": "6182598",
                             "sync_state": "sync_lag"
                         },
                         {
@@ -82,7 +82,7 @@
                             "status": "up",
                             "version": "1.4.7",
                             "is_up_to_date": true,
-                            "latest_block_height": "6181298",
+                            "latest_block_height": "6182015",
                             "sync_state": "sync_nok"
                         },
                         {
@@ -92,7 +92,7 @@
                             "version": "0.37.16",
                             "is_up_to_date": true,
                             "namada_version": "201.0.7",
-                            "latest_block_height": "6181985",
+                            "latest_block_height": "6182599",
                             "sync_state": "sync_lag"
                         }
                     ]
@@ -165,7 +165,7 @@
                             "status": "up",
                             "version": "4.1.0",
                             "is_up_to_date": true,
-                            "latest_block_height": "6181997",
+                            "latest_block_height": "6182611",
                             "sync_state": "sync_ok"
                         },
                         {
@@ -174,7 +174,7 @@
                             "status": "up",
                             "version": "1.4.7",
                             "is_up_to_date": true,
-                            "latest_block_height": "6181298",
+                            "latest_block_height": "6182015",
                             "sync_state": "sync_nok"
                         },
                         {
@@ -184,7 +184,7 @@
                             "version": "0.37.15",
                             "is_up_to_date": true,
                             "namada_version": "201.0.7",
-                            "latest_block_height": "6181998",
+                            "latest_block_height": "6182611",
                             "sync_state": "sync_ok"
                         }
                     ]
@@ -222,7 +222,7 @@
                             "version": "0.37.16",
                             "is_up_to_date": true,
                             "namada_version": "201.0.7",
-                            "latest_block_height": "6181998",
+                            "latest_block_height": "6182612",
                             "sync_state": "sync_ok"
                         }
                     ]
@@ -279,7 +279,7 @@
                             "status": "up",
                             "version": "4.1.0",
                             "is_up_to_date": true,
-                            "latest_block_height": "6182002",
+                            "latest_block_height": "6182616",
                             "sync_state": "sync_ok"
                         },
                         {
@@ -298,7 +298,7 @@
                             "version": "0.37.16",
                             "is_up_to_date": true,
                             "namada_version": "201.0.7",
-                            "latest_block_height": "6182002",
+                            "latest_block_height": "6182616",
                             "sync_state": "sync_ok"
                         }
                     ]
@@ -345,7 +345,7 @@
                             "version": "0.37.16",
                             "is_up_to_date": true,
                             "namada_version": "201.0.7",
-                            "latest_block_height": "6182010",
+                            "latest_block_height": "6182624",
                             "sync_state": "sync_ok"
                         }
                     ]
@@ -391,7 +391,7 @@
                             "status": "up",
                             "version": "4.1.0",
                             "is_up_to_date": true,
-                            "latest_block_height": "6182022",
+                            "latest_block_height": "6182635",
                             "sync_state": "sync_ok"
                         },
                         {
@@ -410,7 +410,7 @@
                             "version": "0.37.16",
                             "is_up_to_date": true,
                             "namada_version": "201.0.7",
-                            "latest_block_height": "6182022",
+                            "latest_block_height": "6182635",
                             "sync_state": "sync_ok"
                         }
                     ]
@@ -438,7 +438,7 @@
                             "status": "up",
                             "version": "4.1.0",
                             "is_up_to_date": true,
-                            "latest_block_height": "6182025",
+                            "latest_block_height": "6182639",
                             "sync_state": "sync_ok"
                         },
                         {
@@ -448,7 +448,7 @@
                             "version": "1.4.7",
                             "is_up_to_date": true,
                             "latest_block_height": "6182015",
-                            "sync_state": "sync_ok"
+                            "sync_state": "sync_nok"
                         },
                         {
                             "service": "rpc",
@@ -457,7 +457,7 @@
                             "version": "0.37.16",
                             "is_up_to_date": true,
                             "namada_version": "201.0.7",
-                            "latest_block_height": "6182025",
+                            "latest_block_height": "6182639",
                             "sync_state": "sync_ok"
                         }
                     ]
@@ -512,7 +512,7 @@
                             "status": "up",
                             "version": "4.1.0",
                             "is_up_to_date": true,
-                            "latest_block_height": "6182037",
+                            "latest_block_height": "6182650",
                             "sync_state": "sync_ok"
                         },
                         {
@@ -522,7 +522,7 @@
                             "version": "1.4.7",
                             "is_up_to_date": true,
                             "latest_block_height": "6182015",
-                            "sync_state": "sync_ok"
+                            "sync_state": "sync_nok"
                         },
                         {
                             "service": "rpc",
@@ -531,7 +531,7 @@
                             "version": "0.37.16",
                             "is_up_to_date": true,
                             "namada_version": "201.0.7",
-                            "latest_block_height": "6182037",
+                            "latest_block_height": "6182650",
                             "sync_state": "sync_ok"
                         }
                     ]
