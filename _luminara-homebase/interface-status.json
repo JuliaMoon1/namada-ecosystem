@@ -1,7 +1,7 @@
 {
-    "script_start_time": "2026-07-13T16:03:33.986442+00:00Z",
-    "script_end_time": "2026-07-13T16:12:23.566384+00:00Z",
-    "reference_latest_block_height": "7281812",
+    "script_start_time": "2026-07-13T18:15:57.210038+00:00Z",
+    "script_end_time": "2026-07-13T18:24:49.144434+00:00Z",
+    "reference_latest_block_height": "7282974",
     "required_versions": {
         "interface": "1.20.0",
         "indexer": "2.5.3",
@@ -45,7 +45,7 @@
                             "version": "0.37.16",
                             "is_up_to_date": true,
                             "namada_version": "201.0.7",
-                            "latest_block_height": "7281796",
+                            "latest_block_height": "7282958",
                             "sync_state": "sync_ok"
                         }
                     ]
@@ -136,7 +136,7 @@
                             "status": "up",
                             "version": "4.1.0",
                             "is_up_to_date": true,
-                            "latest_block_height": "7281811",
+                            "latest_block_height": "7282973",
                             "sync_state": "sync_ok"
                         },
                         {
@@ -155,7 +155,7 @@
                             "version": "0.37.15",
                             "is_up_to_date": true,
                             "namada_version": "201.0.7",
-                            "latest_block_height": "7281811",
+                            "latest_block_height": "7282973",
                             "sync_state": "sync_ok"
                         }
                     ]
@@ -193,7 +193,7 @@
                             "version": "0.37.16",
                             "is_up_to_date": true,
                             "namada_version": "201.0.7",
-                            "latest_block_height": "7281812",
+                            "latest_block_height": "7282974",
                             "sync_state": "sync_ok"
                         }
                     ]
