@@ -1,6 +1,6 @@
 {
-    "script_start_time": "2026-09-02T17:02:26.114149+00:00Z",
-    "script_end_time": "2026-09-02T17:11:32.405486+00:00Z",
+    "script_start_time": "2026-09-02T20:00:05.983393+00:00Z",
+    "script_end_time": "2026-09-02T20:09:35.444360+00:00Z",
     "reference_latest_block_height": "7913445",
     "required_versions": {
         "interface": "1.20.0",
@@ -165,7 +165,7 @@
                             "status": "up",
                             "version": "4.1.0",
                             "is_up_to_date": true,
-                            "latest_block_height": "7417403",
+                            "latest_block_height": "7417405",
                             "sync_state": "sync_nok"
                         },
                         {
